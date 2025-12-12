@@ -8,7 +8,7 @@ I'm Ashik , a dedicated Front-End Developer and passionate full-stack learner. M
 
 <h1 class="heading-element" dir="auto">🚀 Expertise</h1>
 
-My programming journey began in 2010 during school, when I recreated the Google homepage using HTML and CSS. I also built small applications out of curiosity, not realizing this spark would shape my future.
+My programming journey began in 2009 during school, when I recreated the Google homepage using HTML and CSS. I also built small applications out of curiosity, not realizing this spark would shape my future.
 
 After a long break, I returned to coding and everything clicked — programming became my true passion. I relearned the basics, explored PHP, and started building real applications, reminding me how naturally development comes to me.
 
