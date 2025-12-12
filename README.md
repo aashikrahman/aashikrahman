@@ -3,7 +3,7 @@
 I'm Ashik Rahman, a dedicated Front-End Developer and passionate full-stack learner. My journey in tech is driven by curiosity, creativity, and a constant desire to improve. Over the years, I’ve explored different technologies and grown into a developer who truly enjoys building smooth and intuitive digital experiences.
 
 <blockquote>
-<p dir="auto">“Do, or do not. There is no “try” — Yoda</p>
+<p dir="auto">“The only way to do great work is to love what you do.” — Steve Jobs </p>
 </blockquote>
 
 <h1 class="heading-element" dir="auto">🚀 Expertise</h1>
