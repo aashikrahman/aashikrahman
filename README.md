@@ -6,6 +6,8 @@ I'm Ashik Rahman, a dedicated Front-End Developer and passionate full-stack lear
 <p dir="auto">“The only way to do great work is to love what you do.” — Steve Jobs </p>
 </blockquote>
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+
 <h1 class="heading-element" dir="auto">🚀 Expertise</h1>
 
 My programming journey began in 2010 during school, when I recreated the Google homepage using HTML and CSS. I also built small applications out of curiosity, not realizing this spark would shape my future.
