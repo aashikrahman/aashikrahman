@@ -16,7 +16,7 @@ Today, I work with Node.js, Express, MySQL, and React.js, building full-stack ap
 
 I’m currently a Front-End Developer, combining strong UI/UX skills with modern engineering practices to create scalable, user-focused experiences. Outside work, I continue exploring full-stack development out of pure passion.
 
-Full-stack development isn’t just my profession — it’s something I genuinely love creating for my own ideas and projects.
+Full-stack development isn’t just my profession it’s something I genuinely love creating for my own ideas and projects.
 
 <h1 class="heading-element" dir="auto">💻 Tech Stack</h1>
 
